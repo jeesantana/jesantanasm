@@ -1,4 +1,4 @@
 # Olá! Eu sou a Jéssica.
-📚 Estudando HTML, CSS e JavaScript
+📚 Iniciando em HTML, CSS e JavaScript 
 
 ##
